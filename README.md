@@ -11,7 +11,6 @@
 - **🔔 Erinnerungspopup:** Erhalte eine Benachrichtigung, die dich daran erinnert, eine PDF zu öffnen.  
 - **🎲 Zufällige PDF-Auswahl:** PDFAlert öffnet zufällig eine Datei aus deinem ausgewählten Ordner – perfekt für abwechslungsreiches Lernen!  
 - **🎨 Benutzerdefinierte Farben:** Ändere die Farbe des Interface nach deinem Geschmack.  
-- **⚡ Test-Modus:** Teste die Funktion, indem alle 10 Sekunden zufällig eine PDF geöffnet wird.  
 - **🚪 Einfaches Beenden:** Ein Knopfdruck genügt, um die Anwendung zu schließen.  
 
 ---
